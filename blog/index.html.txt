@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Titel des Posts"
+date: 2024-11-22
+author: Linus Kurtenbach
+categories: [Kategorie1, Kategorie2]
+tags: [Tag1, Tag2]
+excerpt_separator: <!--more-->
+---
+
+Hier kommt die Einleitung des Posts. Dieser Text wird als Excerpt auf der Übersichtsseite angezeigt.
+
+<!--more-->
+
+Hier folgt der Rest des Posts...
