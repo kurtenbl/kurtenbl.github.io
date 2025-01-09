@@ -3,7 +3,7 @@ email: l.kurtenbach@tu-berlin.de
 description: >-
   Blog über politische Ökologie, Wasserkraft und Öl-Extraktivismus in Lateinamerika
 baseurl: "/blog"
-url: "https://ihre-domain.de"
+url: "https://kurtenbl.github.io"
 
 # Build settings
 markdown: kramdown
