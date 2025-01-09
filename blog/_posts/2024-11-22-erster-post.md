@@ -10,4 +10,3 @@ Willkommen auf meinem neuen Blog! Hier werde ich über meine Forschung zur polit
 ## Warum dieser Blog?
 
 Als Master-Student am Lateinamerika-Institut der FU Berlin und Tutor am Energieseminar der TU Berlin beschäftige ich mich intensiv mit den Schnittstellen von Klimawandel und Sozialwissenschaften...
-
