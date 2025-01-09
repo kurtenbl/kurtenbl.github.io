@@ -6,8 +6,8 @@ title: Blog
 <div class="post-list">
   {% for post in site.posts %}
     <article>
-      <h2><a href="{{ post.url }}" class="post-link">{{ post.title }}</a></h2>
-      <p class="post-meta">{{ post.date | date: "%B %d, %Y" }}</p>
+      <h2><a href="{{ post.url | relative_url }}" class="post-link">{{ post.title }}</a></h2>
+      <p class="post-meta">{{ post.date | date: "%d. %B %Y" }}</p>
       <div class="post-excerpt">
         {{ post.excerpt }}
       </div>
